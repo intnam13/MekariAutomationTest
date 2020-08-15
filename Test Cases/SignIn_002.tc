@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure that user cannot login with invalid email or phone number</description>
+   <name>SignIn_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c33434e-cc30-4bb6-ad4b-56b7641a9059</testCaseGuid>
+</TestCaseEntity>

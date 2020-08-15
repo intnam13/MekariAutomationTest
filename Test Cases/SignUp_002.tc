@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure that user cannot register if the password not match with re enter password field </description>
+   <name>SignUp_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d72eb0d-1479-496c-b4ff-be51934efffa</testCaseGuid>
+</TestCaseEntity>

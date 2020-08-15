@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure that user cannot cannot leave email/phone number field blank/empty</description>
+   <name>SignIn_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b72879bf-8eb9-4227-baa9-1d1995284ef7</testCaseGuid>
+</TestCaseEntity>
